@@ -155,3 +155,28 @@
 - ผู้ตอบสามารถอธิบายประสบการณ์จากเทคโนโลยีอื่นๆ ที่เทียบเคียงได้
 - คำตอบควรมีการยกตัวอย่างประกอบที่ชัดเจน
 - การอธิบายควรครอบคลุมทั้งด้านเทคนิคและการประยุกต์ใช้งานจริง
+
+### แนวคิดและทฤษฎีอ้างอิง
+### ส่วนที่ 1: Technical Expertise in Programming and Development Tools
+ทฤษฎีอ้างอิง: Experiential Learning Theory ของ David Kolb
+
+สรุป: ส่วนนี้ใช้ทฤษฎี Experiential Learning Theory ที่ระบุว่าการเรียนรู้จากประสบการณ์โดยตรงจะสร้างทักษะเชิงปฏิบัติที่เข้มแข็งขึ้น Kolb เชื่อว่าการเรียนรู้แบบนี้มี 4 ขั้นตอน ได้แก่ Concrete Experience (ประสบการณ์ตรง), Reflective Observation (การสังเกตสะท้อน), Abstract Conceptualization (การสร้างแนวคิด), และ Active Experimentation (การทดลองใช้งาน) ซึ่งช่วยให้ผู้ตอบแสดงความเข้าใจและการประยุกต์ใช้เครื่องมือด้าน BPM และ RPA ในระดับลึก
+
+อ้างอิง:
+Kolb, D. A. (1984). Experiential Learning: Experience as the Source of Learning and Development.
+
+### ส่วนที่ 2: Problem-Solving Logic และ Solution Architecture
+ทฤษฎีอ้างอิง: Systems Theory ของ Ludwig von Bertalanffy
+
+สรุป: ส่วนนี้อิงตาม Systems Theory ซึ่งมองระบบเป็นองค์รวมที่เชื่อมโยงส่วนต่างๆ เข้าด้วยกัน Ludwig von Bertalanffy เน้นว่าการทำงานของระบบจะต้องสอดคล้องกัน เพื่อประสิทธิภาพและความเสถียรของระบบโดยรวม จึงทำให้ส่วนนี้เน้นความสามารถในการวิเคราะห์และแก้ไขปัญหาเชิงระบบของผู้ตอบ เพื่อให้ระบบ BPM/RPA สามารถรองรับการขยายตัวและการดูแลรักษาได้อย่างมีประสิทธิภาพ
+
+อ้างอิง:
+Von Bertalanffy, L. (1968). General System Theory: Foundations, Development, Applications.
+
+### ส่วนที่ 3: Specialized Tool Expertise
+ทฤษฎีอ้างอิง: Data Integration Theory ของ Ralph Kimball
+
+สรุป: ทฤษฎีนี้เน้นการจัดการข้อมูลในหลายแหล่งให้รวมเป็นข้อมูลที่เชื่อถือได้ Kimball นำเสนอแนวคิดการทำ Data Warehousing และการบูรณาการข้อมูลที่มีความซับซ้อนหลายขั้นตอนเพื่อให้สามารถทำ Data Integration ได้อย่างมีประสิทธิภาพ ทฤษฎีนี้จึงเหมาะกับการประเมินความสามารถของผู้ตอบในการทำ data integration, ETL, และการใช้ RPA ควบคู่กับ AI/ML ในการจัดการข้อมูลที่ซับซ้อน
+
+อ้างอิง:
+Kimball, R., & Ross, M. (2002). The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling.
