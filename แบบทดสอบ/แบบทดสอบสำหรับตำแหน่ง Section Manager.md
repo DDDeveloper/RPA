@@ -16,7 +16,7 @@
    - K2 Five / K2 Cloud
    - Mendix Studio Pro
    - OutSystems Platform
-   - Bizagi Modeler
+   - Automation Anywhere
    - UiPath Studio
    - หรือเครื่องมืออื่นๆ ที่คุณมีประสบการณ์
 
